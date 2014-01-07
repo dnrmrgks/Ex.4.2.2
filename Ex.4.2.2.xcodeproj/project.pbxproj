@@ -21,6 +21,7 @@
 		006961B6187C0142008A4336 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00696198187C0142008A4336 /* UIKit.framework */; };
 		006961BE187C0142008A4336 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 006961BC187C0142008A4336 /* InfoPlist.strings */; };
 		006961C0187C0142008A4336 /* Ex_4_2_2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 006961BF187C0142008A4336 /* Ex_4_2_2Tests.m */; };
+		006961CA187C01FD008A4336 /* ball1.png in Resources */ = {isa = PBXBuildFile; fileRef = 006961C9187C01FD008A4336 /* ball1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		006961BB187C0142008A4336 /* Ex.4.2.2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ex.4.2.2Tests-Info.plist"; sourceTree = "<group>"; };
 		006961BD187C0142008A4336 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		006961BF187C0142008A4336 /* Ex_4_2_2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex_4_2_2Tests.m; sourceTree = "<group>"; };
+		006961C9187C01FD008A4336 /* ball1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		0069619A187C0142008A4336 /* Ex.4.2.2 */ = {
 			isa = PBXGroup;
 			children = (
+				006961C9187C01FD008A4336 /* ball1.png */,
 				006961A3187C0142008A4336 /* AppDelegate.h */,
 				006961A4187C0142008A4336 /* AppDelegate.m */,
 				006961A6187C0142008A4336 /* Main.storyboard */,
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				006961CA187C01FD008A4336 /* ball1.png in Resources */,
 				006961AD187C0142008A4336 /* Images.xcassets in Resources */,
 				0069619F187C0142008A4336 /* InfoPlist.strings in Resources */,
 				006961A8187C0142008A4336 /* Main.storyboard in Resources */,
